@@ -4,6 +4,8 @@
 
 [http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
 
+my url: https://hizengbiao.github.io/resume/
+
 ## Intro
 
 此简历模板：
